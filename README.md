@@ -1,4 +1,4 @@
-![MasterHead](https://atornblad.se/c-sharp-category-image.png)
+![MasterHead]([https://atornblad.se/c-sharp-category-image.png](https://media.licdn.com/dms/image/D4D16AQGnKRczToAH1g/profile-displaybackgroundimage-shrink_350_1400/0/1706875895357?e=1715817600&v=beta&t=Uovqh_M8DD6JQCi117Wx3dZ5kahGIKq8NDz6zyRIKPQ))
 
 <h1 align="center">I'm Baran</h1>
 <h3 align="center">A passionate computer programmer from Turkey</h3>
